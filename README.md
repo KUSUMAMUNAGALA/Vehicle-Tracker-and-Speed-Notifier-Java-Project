@@ -54,19 +54,19 @@ If you encounter any issues, please refer to the project's documentation and res
 
 ## Output
 Main Page:
-https://github.com/KUSUMAMUNAGALA/Vehicle-Tracker-and-Speed-Notifier-Java-Project/assets/111728537/317fe06c-c734-45a8-ac79-033b4d4ebaff
+https://github.com/KUSUMAMUNAGALA/Vehicle-Tracker-and-Speed-Notifier-Java-Project/assets/111728537/0db78f6c-b52a-45f7-b156-6226c6b14ed7
 
 After Completing Login / Register it will directly redirect to home.jsp page
 ![image](https://github.com/KUSUMAMUNAGALA/Vehicle-Tracker-and-Speed-Notifier-Java-Project/assets/111728537/14688354-19f1-4e02-badf-8281d59096ab)
 
-We have to Choose What we need?
-# If we select the Speed Notifier :
+We have to Choose What we need ?
+~If we select the Speed Notifier :
 ![image](https://github.com/KUSUMAMUNAGALA/Vehicle-Tracker-and-Speed-Notifier-Java-Project/assets/111728537/338ad1f1-fbc9-493b-af23-a97ae05b4ae4)
 ![image](https://github.com/KUSUMAMUNAGALA/Vehicle-Tracker-and-Speed-Notifier-Java-Project/assets/111728537/3bcf77ff-05ee-43e2-a886-e073449e1259)
 Click the Check Speed 
 ![image](https://github.com/KUSUMAMUNAGALA/Vehicle-Tracker-and-Speed-Notifier-Java-Project/assets/111728537/80c1c40b-ae0d-4a57-9d6b-8f5d51f75285)
 
-#If we select the Location Tracker :
+~If we select the Location Tracker :
 ![image](https://github.com/KUSUMAMUNAGALA/Vehicle-Tracker-and-Speed-Notifier-Java-Project/assets/111728537/fd1833d5-410f-4a25-9d41-cd69f7b2d7fc)
 click the questions below
 ![image](https://github.com/KUSUMAMUNAGALA/Vehicle-Tracker-and-Speed-Notifier-Java-Project/assets/111728537/57286cbd-fa55-42d9-9eca-3b3b2feb04ac)
