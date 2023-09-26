@@ -1,0 +1,2 @@
+# Vehicle-Tracker-and-Speed-Notifier-Java-Project
+In our daily life, we find many situations where it is necessary to find the vehicle location . This project targets to develop a mobile application in order to  provide vehicle location and it also used to send speed notifications to user. It uses internet and can be accessed from anywhere. P22 Finance Corp Network-based Java  Application APSFC is a network-based application, programmed for the banking sector namely Andhra Pradesh State Finance Corporation. The act
