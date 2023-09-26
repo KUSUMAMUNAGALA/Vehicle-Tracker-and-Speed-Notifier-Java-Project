@@ -54,7 +54,8 @@ If you encounter any issues, please refer to the project's documentation and res
 
 ## Output
 Main Page:
-https://github.com/KUSUMAMUNAGALA/Vehicle-Tracker-and-Speed-Notifier-Java-Project/assets/111728537/0db78f6c-b52a-45f7-b156-6226c6b14ed7
+
+(https://github.com/KUSUMAMUNAGALA/Vehicle-Tracker-and-Speed-Notifier-Java-Project/assets/111728537/0db78f6c-b52a-45f7-b156-6226c6b14ed7)
 
 After Completing Login / Register it will directly redirect to home.jsp page
 ![image](https://github.com/KUSUMAMUNAGALA/Vehicle-Tracker-and-Speed-Notifier-Java-Project/assets/111728537/14688354-19f1-4e02-badf-8281d59096ab)
